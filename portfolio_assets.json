@@ -1,0 +1,24 @@
+{
+    "assets": {
+        "POL": {
+            "price": 0.225,
+            "ma_200d": 0.260,
+            "liquidity_x1": 0.41,
+            "sustainability_x2": 0.08,
+            "efficiency_x3": 0.05,
+            "leverage_x4": 1.10,
+            "nvt_current": 68.4,
+            "nvt_median": 52.0
+        },
+        "LCX": {
+            "price": 0.112,
+            "ma_200d": 0.145,
+            "liquidity_x1": 0.35,
+            "sustainability_x2": 0.12,
+            "efficiency_x3": 0.07,
+            "leverage_x4": 0.95,
+            "nvt_current": 42.1,
+            "nvt_median": 45.0
+        }
+    }
+}
