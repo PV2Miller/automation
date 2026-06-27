@@ -1,0 +1,15 @@
+# Python environment artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# IDE / System files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
