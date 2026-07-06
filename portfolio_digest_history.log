@@ -1,0 +1,25 @@
+{
+  "Timestamp": null,
+  "Payload": null,
+  "DigestID": null
+}
+{
+  "Timestamp": null,
+  "Payload": null,
+  "DigestID": null
+}
+{
+  "Timestamp": null,
+  "Payload": {
+    "status": "SUCCESS",
+    "processed": 1
+  },
+  "DigestID": null
+}
+{
+  "Timestamp": "2026-06-23 18:21:38",
+  "Payload": {
+    "status": "SUCCESS",
+    "processed": 1
+  }
+}

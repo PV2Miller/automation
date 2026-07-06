@@ -1,0 +1,39 @@
+{
+    "status": "SUCCESS",
+    "timestamp": "2026-06-26 20:43:30",
+    "processed_assets": 4,
+    "digest_metrics": {
+        "POL": {
+            "quantity_held": 1000.0,
+            "price": 0.225,
+            "estimated_balance": 225.0,
+            "mayer_multiple": 0.8654,
+            "structural_score": 1.64,
+            "nvt_premium_ratio": 1.3154
+        },
+        "LCX": {
+            "quantity_held": 5000.0,
+            "price": 0.112,
+            "estimated_balance": 560.0,
+            "mayer_multiple": 0.7724,
+            "structural_score": 1.49,
+            "nvt_premium_ratio": 0.9356
+        },
+        "AAVE": {
+            "quantity_held": 10.5,
+            "price": 0.0,
+            "estimated_balance": 0.0,
+            "mayer_multiple": 0.0,
+            "structural_score": 0,
+            "nvt_premium_ratio": 0.0
+        },
+        "CRO": {
+            "quantity_held": 2500.0,
+            "price": 0.0,
+            "estimated_balance": 0.0,
+            "mayer_multiple": 0.0,
+            "structural_score": 0,
+            "nvt_premium_ratio": 0.0
+        }
+    }
+}

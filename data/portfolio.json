@@ -1,0 +1,26 @@
+[
+  {
+    "asset": "BTC",
+    "total_balance": 0.75,
+    "sources": {
+      "coinbase": 0.50,
+      "ledger": 0.25
+    }
+  },
+  {
+    "asset": "ETH",
+    "total_balance": 5.2,
+    "sources": {
+      "coinbase": 2.0,
+      "metamask": 3.2
+    }
+  },
+  {
+    "asset": "SOL",
+    "total_balance": 120,
+    "sources": {
+      "coinbase": 50,
+      "wallet": 70
+    }
+  }
+]

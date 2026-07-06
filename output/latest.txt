@@ -1,0 +1,13 @@
+
+=====================================================================================
+Traceback (most recent call last):
+  File "C:\Automation\append_signal.py", line 191, in <module>
+    generate_digest(results)
+    ~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Automation\append_signal.py", line 117, in generate_digest
+    print("\U0001f4ca CRMILLER DAILY PORTFOLIO DIGEST")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Chris\Miniconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 0: character maps to <undefined>

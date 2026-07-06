@@ -1,0 +1,28 @@
+{"timestamp_utc": "2026-06-13T20:15:00Z", "asset": "BTC-Macro", "action": "BUY_SIGNAL", "confidence": 0.87, "current_value": 64387.1494}
+{"timestamp_utc": "2026-06-13T20:20:00Z", "asset": "BTC-Macro", "action": "BUY_SIGNAL", "confidence": 0.92, "current_value": 64455.0238}
+{"timestamp_utc": "2026-06-14T01:16:57.428851+00:00Z", "asset": "BTC-Macro", "action": "BUY_SIGNAL", "confidence": 0.93, "current_value": 64786.3497}
+{"asset": "BTC-Macro", "action": "BUY_SIGNAL", "current_value": 64786.3497, "confidence": 0.93, "logged_at": "2026-06-14T01:22:19.143284Z", "source": "CRMillerEngine", "tenant": "crmiller.org"}
+{"asset": "BTC-Macro", "action": "BUY_SIGNAL", "current_value": 64786.3497, "confidence": 0.93, "logged_at": "2026-06-14T01:26:06.157952Z", "source": "CRMillerEngine", "tenant": "crmiller.org"}
+{"asset": "BTC-Macro", "action": "BUY_SIGNAL", "current_value": 64786.3497, "confidence": 0.93, "logged_at": "2026-06-14T01:27:05.074806Z", "source": "CRMillerEngine", "tenant": "crmiller.org"}
+{"asset": "BTC-Macro", "action": "BUY_SIGNAL", "current_value": 64786.3497, "confidence": 0.93, "logged_at": "2026-06-14T02:07:40.989663Z", "source": "CRMillerEngine", "tenant": "crmiller.org"}
+{"asset": "BTC-Macro", "action": "BUY_SIGNAL", "current_value": 64786.3497, "confidence": 0.93, "logged_at": "2026-06-19T16:28:05.657126Z", "source": "CRMillerEngine", "tenant": "admin@crmiller.org"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-19T20:36:55.231476+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-19T23:16:13.632558+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T00:11:28.115500+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T00:19:57.289711+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T00:25:00.241666+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T16:02:15.987505+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T16:55:41.870880+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T17:19:13.294637+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T17:21:15.754553+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T17:37:11.106354+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend (positive deviation)", "current_value": 65000, "confidence": 0.57, "sma_short": 64566.67, "sma_long": 64425.0, "volatility": 434.93, "logged_at": "2026-06-20T17:48:40.619067+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend", "confidence": 0.0, "price": 65000, "logged_at": "2026-06-20T18:01:34.292803+00:00"}
+{"asset": "ETH", "action": "HOLD", "reason": "Above trend", "confidence": 0.93, "price": 3500, "logged_at": "2026-06-20T18:01:34.296308+00:00"}
+{"asset": "SOL", "action": "HOLD", "reason": "Above trend", "confidence": 1.0, "price": 150, "logged_at": "2026-06-20T18:01:34.297880+00:00"}
+{"asset": "BTC", "action": "HOLD", "reason": "Above trend", "confidence": 0.73, "price": 63816, "logged_at": "2026-06-20T18:06:50.002428+00:00"}
+{"asset": "ETH", "action": "WATCH", "reason": "No strong signal", "confidence": 0.99, "price": 1728.41, "logged_at": "2026-06-20T18:06:50.301765+00:00"}
+{"asset": "SOL", "action": "WATCH", "reason": "No strong signal", "confidence": 1.0, "price": 0, "logged_at": "2026-06-20T18:06:50.580250+00:00"}
+{"asset": "BTC", "action": "WATCH", "reason": "No strong signal", "confidence": 0.73, "price": 63784, "logged_at": "2026-06-20T18:09:08.182562+00:00"}
+{"asset": "ETH", "action": "WATCH", "reason": "No strong signal", "confidence": 1.0, "price": 1726.88, "logged_at": "2026-06-20T18:09:09.510285+00:00"}
+{"asset": "SOL", "action": "WATCH", "reason": "No strong signal", "confidence": 1.0, "price": 100, "logged_at": "2026-06-20T18:09:10.680146+00:00"}

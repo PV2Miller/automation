@@ -1,0 +1,10 @@
+[
+  {
+    "asset": "BTC",
+    "price": 65000,
+    "history": [64000, 64200, 64500, 65000],
+    "recommendation": "HOLD",
+    "confidence": 0.75,
+    "reason": "Stable upward trend"
+  }
+]
